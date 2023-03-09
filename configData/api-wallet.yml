@@ -4,9 +4,9 @@ spring:
   application:
     name: api-wallet
   datasource:
-    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/baseback
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/BackEndSpecialization_BackEnd1_Group5
     username: root
-    password: Wire2681
+    password: topo21
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
